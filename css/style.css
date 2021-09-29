@@ -1,0 +1,61 @@
+*{font-family: Arial, Helvetica, sans-serif; font-size: 15px;}
+
+body{
+    background-color: #D5F5E3;
+}
+
+.navbar{
+    background-color: #7DCEA0;
+    box-shadow: 0px 3px 5px rgb(146, 139, 139);
+    margin-bottom: 5px;
+    padding: 0px;
+}
+
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.row{
+    align-items: center;
+}
+
+#quemsomos{
+    background-color: #D5F5E3;
+    color: #145A32;
+    height: 500px;
+    padding-top: 20px;
+}
+
+#quemsomos h3,h6,img{
+    padding-top: 25px;
+}
+
+#parceiros{
+    background-color: #82E0AA;
+    color: white;
+    padding-top: 30px;
+    height: 600px;
+}
+
+#parceiros h3{
+    padding-bottom: 50px;
+}
+
+#servicos{
+    background-color: #D5F5E3;
+    color: #145A32;
+    padding-top: 30px;
+    height: 550px;
+}
+
+#servicos h3{
+    padding-bottom: 50px;
+}
+
+footer{
+    height: 30px;
+    background-color: #145A32;
+    color: white;
+    padding-top: 5px;
+}
